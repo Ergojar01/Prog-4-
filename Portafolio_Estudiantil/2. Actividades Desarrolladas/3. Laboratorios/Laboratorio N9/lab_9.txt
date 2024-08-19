@@ -1,0 +1,14 @@
+Ernesto Gonzalez 8-1017-126
+
+El factorial de 3 es 6.
+El arreglo es: Array ( [0] => 63 [1] => 7 [2] => 9 [3] => 91 [4] => 64 [5] => 65 [6] => 12 [7] => 59 [8] => 2 [9] => 39 [10] => 57 [11] => 82 [12] => 83 [13] => 95 [14] => 47 [15] => 72 [16] => 31 [17] => 32 [18] => 26 [19] => 11 ) El mayor valor en el arreglo es: 95 La posición del mayor valor es: 13
+El número 1 no es par. Por favor, ingrese un número par.
+
+Lista de Números Pares
+2
+Ingresar otro número
+Matriz Identidad de Orden 4
+1	0	0	0
+0	1	0	0
+0	0	1	0
+0	0	0	1
